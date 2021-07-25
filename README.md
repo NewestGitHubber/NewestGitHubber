@@ -1,6 +1,8 @@
 ### i am having a stroke
 - i somehow found this for no reason
 - aaaaaaaaaaaaaaaaa
+- star this repository for no reason 👍
+- ok bye
 
 <!--
 **NewestGitHubber/NewestGitHubber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
